@@ -1,0 +1,831 @@
+fileFormatVersion: 2
+guid: aa089ad50370014448800801e659b2c7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 596
+        width: 115
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0877710c22c3e5469e9ccb93cf9932d
+      internalID: 1619440621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 572
+        width: 146
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf22ea1ccff6bf0489f812d1180c3c70
+      internalID: -1699847863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 596
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4367913f3c33574caa83ac1d50a79f1
+      internalID: 946735986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 596
+        width: 144
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a754109ad706f4dbfcc492cf86343f
+      internalID: 1744775154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_4
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 596
+        width: 132
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb3c866ef2283342beb96bdb8b5bfee
+      internalID: -1465706860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_5
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 723
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9623c0caf3c360b46be5eec2c529efb0
+      internalID: -1546845160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_6
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 596
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789dea49e1f0b2c4baeeb2aba6bc3e03
+      internalID: -235092280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_7
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 596
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ad2a6e1864cff41a5f1a510fa8e915
+      internalID: 2002139534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 679
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9715682d56b4e49b6fafa376595602
+      internalID: -97710024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 656
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d99d6f0cc06344991c0d3d3121b943
+      internalID: 1847872074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 406
+        width: 144
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022cf8541d2410d4794a1319c7b9b3ec
+      internalID: -1555243810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 579
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48289fe0ecd09314cbe40916d45e0ef5
+      internalID: 797160315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 581
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b4046d857ef8047b1ac439cce0c165
+      internalID: 1316222297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 442
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939d9cd698e6d4d44ac6d2269f988448
+      internalID: -2075960959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_14
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 580
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857c5e713039a604d939cdbd00ac8bfa
+      internalID: -1307375686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_15
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 454
+        width: 134
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedf4cf6531fe39448a14b19d0565029
+      internalID: -1687472621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 546
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6eb06e874ac114591b7c0678a6e551
+      internalID: -124251487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_17
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 488
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0307f0dda12a8274e844a0654d294ab4
+      internalID: 1606186792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_18
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 454
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0830dab5a0d7dd94489bf490cb45e0ec
+      internalID: 814593650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 175
+        width: 152
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b731b78123e554c49b1779847440dff6
+      internalID: 959411351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_20
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 301
+        width: 121
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995bd6f9116602a4683bfd67389bcf50
+      internalID: -1970800551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_21
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 310
+        width: 118
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2781c007eb7522d45889f3dcfc59449c
+      internalID: -1479054942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_22
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 310
+        width: 132
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeee0cf77b136840adf487eec8f3602
+      internalID: -1729137238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 173
+        width: 114
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889c8ef6c7fc41046bbbe1b50d873218
+      internalID: -980061350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_24
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 156
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcfdf9cf3279894a9a8d86fc6334d4c
+      internalID: -1186986267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_25
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 168
+        width: 134
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffadb1ffc5672ad40a78368ba8c5b7a1
+      internalID: -1486451859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_26
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 193
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6f9a50ab93541438e61ba18da5eec3
+      internalID: 833421718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_27
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 26
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc27ae0158fd1744c943c24711ecba54
+      internalID: -1826798479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_28
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 43
+        width: 151
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac8cc2d51883904d938fab38cc2c4b3
+      internalID: 1327617914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_29
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 26
+        width: 126
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9859ac3e91cc7594fb3acab990bb8300
+      internalID: 4291182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_30
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 148
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dbcb40c705642478b8f66ef2a481c2
+      internalID: 2038197526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grocery Items - Group 4_31
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 26
+        width: 135
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fcf8e60ee77884ab9c007e46d085ec
+      internalID: -1572282627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Grocery Items - Group 4_0: 1619440621
+      Grocery Items - Group 4_1: -1699847863
+      Grocery Items - Group 4_10: -1555243810
+      Grocery Items - Group 4_11: 797160315
+      Grocery Items - Group 4_12: 1316222297
+      Grocery Items - Group 4_13: -2075960959
+      Grocery Items - Group 4_14: -1307375686
+      Grocery Items - Group 4_15: -1687472621
+      Grocery Items - Group 4_16: -124251487
+      Grocery Items - Group 4_17: 1606186792
+      Grocery Items - Group 4_18: 814593650
+      Grocery Items - Group 4_19: 959411351
+      Grocery Items - Group 4_2: 946735986
+      Grocery Items - Group 4_20: -1970800551
+      Grocery Items - Group 4_21: -1479054942
+      Grocery Items - Group 4_22: -1729137238
+      Grocery Items - Group 4_23: -980061350
+      Grocery Items - Group 4_24: -1186986267
+      Grocery Items - Group 4_25: -1486451859
+      Grocery Items - Group 4_26: 833421718
+      Grocery Items - Group 4_27: -1826798479
+      Grocery Items - Group 4_28: 1327617914
+      Grocery Items - Group 4_29: 4291182
+      Grocery Items - Group 4_3: 1744775154
+      Grocery Items - Group 4_30: 2038197526
+      Grocery Items - Group 4_31: -1572282627
+      Grocery Items - Group 4_4: -1465706860
+      Grocery Items - Group 4_5: -1546845160
+      Grocery Items - Group 4_6: -235092280
+      Grocery Items - Group 4_7: 2002139534
+      Grocery Items - Group 4_8: -97710024
+      Grocery Items - Group 4_9: 1847872074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
